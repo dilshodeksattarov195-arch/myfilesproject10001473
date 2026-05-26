@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggerualidate",
+        "uuid": 13657656,
+        "checksum": "1c33v8"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
